@@ -5,7 +5,7 @@
 ⚡ I'm currently learning Next.
 
 <details>
-<summary>⚡️ More about my coding life</summary>
+<summary>More about my coding life</summary>
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
